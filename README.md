@@ -1,15 +1,4 @@
-# Best git commands ⭐️
-
-## Remember
-
-1. Golden Rule, you can rewrite the history if you are the only one working on the project
-2. Make clean, single-purpose commits
-3. Write meaningful commit messages
-4. Commit early, commit often
-5. Don’t alter published history (group projects)
-6. Don’t commit generated files
-
-## Is between [] what we must change or add
+# Is between [] what we must change or add
 
 ## git config
 
