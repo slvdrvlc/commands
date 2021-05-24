@@ -1,4 +1,4 @@
-# Is between [] what we must change or add
+# Is between [ ] what we must change or add
 
 ## git config
 
