@@ -10,7 +10,7 @@ configure user email
 
 `git config --global user.email “[email address]”`
 
-configure init
+configure initial default branch
 
 `git config --global init.defaultBranch [branch]`
 
