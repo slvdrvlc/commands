@@ -152,6 +152,10 @@ fetch and merge changes from remote to local repository
 
 `git pull [variable name] [branch]`
 
+pull unrelated histories
+
+`git pull [variable name] [branch] --allow-unrelated-histories`
+
 ## git push
 
 add remote-tracking reference
